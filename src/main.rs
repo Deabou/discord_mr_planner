@@ -18,7 +18,7 @@ Hello! I'm Mr. Planner, your event planning assistant.
 What type of event would you like me to help you plan?
  ";
 
-const HELP_COMMAND: &str = "!help";
+const HELP_COMMAND: &str = "!plan";
 
 struct Handler;
 
